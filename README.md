@@ -99,24 +99,8 @@ Instead of manually copying form submissions:
 
 **Workflow Architecture**
 
-Customer
-     │
-     ▼
- Tally Form Submission
-     │
-     ▼
-   Router
- ┌──────────────┬──────────────┐
- │              │
- ▼              ▼
-Google Sheets   HubSpot CRM
-(Add Row)     (Create/Update Contact)
-      │
-      ▼
- Gmail Notification
-      │
-      ▼
- Sales Team
+ <img width="349" height="306" alt="image" src="https://github.com/user-attachments/assets/b7c6ccd6-8374-4745-9d31-074696d18c79" />
+
  
 **Workflow Screenshot**
 
