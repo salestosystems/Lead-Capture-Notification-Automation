@@ -1,10 +1,11 @@
 **Project Information**
-Project Name: Lead Capture & Notification Automation
-Category: Revenue Operations (RevOps)
-Business Function: Marketing Operations → Sales Operations
-Project Type: Automated Lead Capture & CRM Synchronisation Workflow
-Built With: Make.com, Tally Forms, HubSpot CRM, Google Sheets, Gmail, Router Logic
-Status: ✅ Production-Ready Portfolio Project
+
+**Project Name:** Lead Capture & Notification Automation
+**Category:** Revenue Operations (RevOps)
+**Business Function:** Marketing Operations → Sales Operations
+**Project Type:** Automated Lead Capture & CRM Synchronisation Workflow
+**Built With:** Make.com, Tally Forms, HubSpot CRM, Google Sheets, Gmail, Router Logic
+**Status:** ✅ Production-Ready Portfolio Project
 
 **Lead Capture & Notification Automation**
 An automated Revenue Operations workflow that captures inbound leads from Tally Forms, instantly creates CRM records, logs every submission, and notifies stakeholders in real time—eliminating manual data entry and reducing lead response time.
