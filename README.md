@@ -98,6 +98,7 @@ Instead of manually copying form submissions:
 ✔ Eliminate manual data entry
 
 **Workflow Architecture**
+
 Customer
      │
      ▼
