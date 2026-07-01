@@ -13,6 +13,7 @@
 **Status:** ✅ Production-Ready Portfolio Project
 
 **Lead Capture & Notification Automation**
+
 An automated Revenue Operations workflow that captures inbound leads from Tally Forms, instantly creates CRM records, logs every submission, and notifies stakeholders in real time—eliminating manual data entry and reducing lead response time.
 
 💡 **Architect's Note**
